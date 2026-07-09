@@ -1,11 +1,11 @@
 # Binance Clone — White-Label Cryptocurrency Exchange Platform by Miracuves
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxcrypto.mimeld.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxcryptoz.mimeld.com)
 [![Website](https://img.shields.io/badge/Solution_Page-miracuves.com-0b0b10?style=for-the-badge)](https://miracuves.com/binance-clone/)
 [![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/binance-clone/#pricing)
 [![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/facts/)
 
-**MXCrypto** is a production-ready, white-label Binance clone: a complete crypto-exchange platform with spot/futures, KYC/AML, and admin controls — delivered with **100% source code ownership** in **6 working days**.
+**MXCryptoz** is a production-ready, white-label Binance clone: a complete crypto-exchange platform with spot/futures, KYC/AML, and admin controls — delivered with **100% source code ownership** in **6 working days**.
 
 > 💰 **See it running before you talk to anyone.** Live trader app, web terminal, and admin console — demo credentials are printed on the [solution page](https://miracuves.com/binance-clone#demo). No sales call required.
 
@@ -16,7 +16,7 @@
 | Environment | URL | What you can test |
 |---|---|---|
 | 📱 Trader App | [mas.mimeld.com](https://mas.mimeld.com) | Spot, futures, wallet, orders — mobile trading |
-| 🌐 Web Terminal | [mxcrypto.mimeld.com](https://mxcrypto.mimeld.com) | Pro-grade chart, order book, depth, trades |
+| 🌐 Web Terminal | [mxcryptoz.mimeld.com](https://mxcryptoz.mimeld.com) | Pro-grade chart, order book, depth, trades |
 | 🛡️ Compliance Console | [Solution page → Demo](https://miracuves.com/binance-clone#demo) | KYC/AML, transaction monitoring, SARs |
 | 🛠️ Admin Dashboard | [Solution page → Demo](https://miracuves.com/binance-clone#demo) | Pairs, liquidity, fees, security, analytics |
 
@@ -106,9 +106,9 @@ This repository is a product overview. The full source code is delivered to clie
 TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 ══════════════════════════════════════════════════
 {APP_NAME}        Binance Clone
-{MX_NAME}         MXCrypto
+{MX_NAME}         MXCryptoz
 {CATEGORY}        Cryptocurrency Exchange Platform
-{DEMO_WEB}        mxcrypto.mimeld.com
+{DEMO_WEB}        mxcryptoz.mimeld.com
 {PRICE}           $6,999
 {SLUG}            binance-clone
 {SOLUTION_URL}    https://miracuves.com/binance-clone/
